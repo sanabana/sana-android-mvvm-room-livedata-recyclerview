@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sananda_AndroidMVVMRoom</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_data">No data found!</string>
+    <string name="rqrd_name">Name is required</string>
+    <string name="rqrd_email">Email is required</string>
+    <string name="rqrd_pass">Password is required</string>
+    <string name="msg_success_login">Successfully login</string>
+    <string name="msg_emial_pass_mismatch">Email or password does not match!</string>
+    <string name="msg_login_failure">Email does not exist!</string>
+     <string name="msg_email_exists">Email already exists!</string>
+    <string name="msg_pass_mismatch">Password does not match confirm password!</string>
+</resources>
